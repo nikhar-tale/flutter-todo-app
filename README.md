@@ -20,4 +20,4 @@ Welcome to Flutter Todo, a task management app built using Flutter. This app fol
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/flutter-todo.git
+git clone https://github.com/nikhar-tale/flutter-todo-app.git
